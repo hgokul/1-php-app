@@ -1,0 +1,7 @@
+---
+applications:
+- name: 1-php-app
+  host: 1-php-app
+  memory: 128M
+  domain: cfapps.io
+  instances: 2
